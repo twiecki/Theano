@@ -3,7 +3,7 @@ Release Notes
 =============
 
 Theano 1.0.3 (20th of September 2018)
-====================================
+=====================================
 
 This is a maintenance release of Theano, version ``1.0.3``, with no
 new features, but some important bug fixes.
